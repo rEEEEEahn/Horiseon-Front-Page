@@ -9,11 +9,11 @@ Provide a short description explaining the what, why, and how of your project. U
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 ## Usage
 
-![web page](./assets/images/web-page.png)
+![web page](Main/assets/images/web-page.png)
 
     What the Horieon site should look like Before, and After.
 
-![code](./assets/images/code.png)
+![code](Main/assets/images/code.png)
 
     Carefully find ways to condense the css and also add semantic elements to html.
 
