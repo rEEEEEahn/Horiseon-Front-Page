@@ -7,11 +7,11 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Usage
 
-![web page](Main/assets/images/web-page.png)
+![web page](/assets/images/web-page.png)
 
     What the Horieon site should look like Before, and After.
 
-![code](Main/assets/images/code.png)
+![code](/assets/images/code.png)
 
     Carefully find ways to condense the css and also add semantic elements to html.
 
