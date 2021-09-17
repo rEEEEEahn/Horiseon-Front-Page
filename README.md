@@ -8,19 +8,19 @@ Provide a short description explaining the what, why, and how of your project. U
 ## Installation
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 ## Usage
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```md
+
     ![web page](./assets/images/web-page.png)
+
     What the Horieon site should look like Before, and After.
-    ```md
+
     ![code](./assets/images/code.png)
+
     Carefully find ways to condense the css and also add semantic elements to html.
 
 ## License
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2021] [Ryan Hsiao]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
