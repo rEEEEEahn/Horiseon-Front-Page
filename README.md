@@ -5,8 +5,6 @@ Provide a short description explaining the what, why, and how of your project. U
 - Homework 1 is it test and see if I can fix the given html and css code to be more efficent with the knowledge I have near the end of week 1 of the bootcamp. This also includes uploading the finished project to github and making it live. 
 - I have learned alot through this assignment. Working slowly and carefully was the key to this assignment. I had to back track many times to see if the code that I added in would make or break the site. I was very rewarding to see everything come together and finally work, makes the time spent worth it.
 
-## Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 ## Usage
 
 ![web page](Main/assets/images/web-page.png)
